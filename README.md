@@ -47,10 +47,8 @@ Also, it wll create a separate build folder inside the root folder with all the 
 * Dev Mode is defined in several places in the code with "Dev Mode Start" and "Dev Mode End" tags.
   This can be enabled by un-commenting the code lines inside those tags for development purposes.
 
-### Demo
-* [Click here](https://drive.google.com/file/d/1Z6XPvLJtYI3L-C6yaTAAuEAi8515mTPp/view?usp=sharing) to see the demo video.
 
 ### Contact Details
 
-* Email: mihiranpg@gmail.com
-* LinkedIn: https://www.linkedin.com/in/mihiran-paranamana
+* Email: vijaychauhanssn@gmail.com
+* LinkedIn: https://www.linkedin.com/in/suryatechnosoft/
